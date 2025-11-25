@@ -1,0 +1,5 @@
+{
+  "name": "PromptForm AI",
+  "description": "An AI-powered application to generate structured interview scripts and questionnaires based on user-defined research parameters. Includes a helpful AI chat assistant.",
+  "requestFramePermissions": []
+}
